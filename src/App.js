@@ -1,12 +1,10 @@
 import "./App.css";
-import RandomQuote from "./Components/Assets/RandomQuote/RandomQuote";
+import RandomQuote from "./Components/Assets/RandomQuote/RandomQuote.jsx";
 
-function App() {
-  return;
-
-  <div>
-    <RandomQuote />
-  </div>;
+export default function App() {
+  return (
+    <>
+      <RandomQuote />
+    </>
+  );
 }
-
-export default App;
