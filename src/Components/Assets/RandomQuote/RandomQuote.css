@@ -1,0 +1,38 @@
+body {
+  background-color: #141414;
+  color: white;
+}
+
+.container {
+  margin-top: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 50px;
+  border: 1px solid #f0edaa;
+  border-radius: 10px;
+}
+
+button {
+  background-color: #f0edaa;
+  color: black;
+  border-radius: 5px;
+  border: 1px solid #f0edaa;
+  font-size: 12px;
+  text-transform: uppercase;
+  margin-top: 40px;
+  padding: 10px;
+  font-family: "Nunito", sans-serif;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 150px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
